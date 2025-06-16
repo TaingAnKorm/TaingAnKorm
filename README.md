@@ -23,7 +23,4 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=TaingAnKorm&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
