@@ -3,7 +3,11 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/violet.kta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/violetkt8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taing-an-005343325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kormtaingan99@gmail.com) 
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/violet.kta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/violet.kta" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/violetkt8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/violetkt8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taing-an-005343325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taing-an-005343325/" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 
@@ -138,4 +142,5 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+###
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
