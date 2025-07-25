@@ -8,7 +8,6 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 <a href="https://instagram.com/https://www.instagram.com/violetkt8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/violetkt8/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/taing-an-005343325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taing-an-005343325/" height="30" width="40" /></a>
 <a href="https://t.me/Taing_An8" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="35" width="35" /></a>
-<a href="kormtaingan99@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="35" width="35" /></a>
 
 </p>
 
