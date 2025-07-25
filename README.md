@@ -4,10 +4,21 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/violet.kta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/violet.kta" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/violetkt8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/violetkt8/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/taing-an-005343325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taing-an-005343325/" height="30" width="40" /></a>
-<a href="https://t.me/Taing_An8" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="35" width="35" /></a>
+<a href="https://fb.com/https://www.facebook.com/violet.kta" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/violet.kta" height="30"     
+    width="40" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/violetkt8/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/violetkt8/" height="30" 
+    width="40" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taing-an-005343325/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taing-an-005343325/" 
+    height="30" width="40" />
+</a>
+<a href="https://t.me/Taing_An8" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="35" width="35" />
+</a>
 
 </p>
 
@@ -121,11 +132,14 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 <!-- UI/UX Design -->
 <h4 align="left">🎨 UI/UX Design</h4>
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
 
