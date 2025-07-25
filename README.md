@@ -125,7 +125,7 @@ Hi 👋! My name is Korm TaingAn, I'm a student and 🌱 I’m currently learnin
 </p>
 
 <!-- UI/UX Design -->
-<h4 align="left">🎨 UI/UX Design</h4>
+<h4 align="left">🎨 Design and UX/UI</h4>
 <p align="left">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop" width="40" height="40"/>
